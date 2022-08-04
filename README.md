@@ -1,2 +1,3 @@
 # AluraPlus
-(Projeto do curso Alura /  Front-end / SEM responsividade/ 2022
+(Projeto do curso Alura /  Front-end / SEM responsividade/ 2022)
+(HTML / CSS)
